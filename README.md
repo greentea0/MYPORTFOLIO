@@ -1,2 +1,2 @@
-# MYPORTFOLIO
+# 조유빈_000818.pptx MYPORTFOLIO
 # pdf 업로드 시 자꾸 렌더링 오류가 발생하여 부득이하게 png / ppt 파일로 업로드하였습니다. ppt 파일 다운로드 후 확인해주시면 감사하겠습니다.
